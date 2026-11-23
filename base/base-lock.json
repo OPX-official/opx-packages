@@ -1,6 +1,6 @@
 {
   "source": "https://packages.termux.dev/apt/termux-main",
-  "mirrored": "2026-11-23T12:44:09Z",
+  "mirrored": "2026-11-23T12:50:05Z",
   "roots": [
     "python",
     "libusb",

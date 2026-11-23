@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-23T12:44:09Z",
+  "generated": "2026-11-23T12:50:05Z",
   "base_url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/",
   "packages": [
     {
@@ -50,7 +50,7 @@
       "kind": "payload",
       "path": "payload/aarch64/opx-base_2026.11.23_aarch64.tar.gz",
       "size": 14451832,
-      "sha256": "015e299728f17bdad4592865816a635e136082530e572e2fd8635b133e4a33f0",
+      "sha256": "c4d063bc6a1e26cc95dd499a5257f6612e68d3a524779d96e4134d0002b16ae5",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/payload/aarch64/opx-base_2026.11.23_aarch64.tar.gz"
     },
     {
@@ -60,7 +60,7 @@
       "kind": "payload",
       "path": "payload/all/opx-runtime_2026.11.23_all.tar.gz",
       "size": 2730,
-      "sha256": "3c23869fb81b7003d9a674b65462fdbab4b9c722af64fe93ffeaf1449c847b46",
+      "sha256": "044c2586ebe3e2f6c2dbcc63b3da14dbd5c840341ccf5e0a04d40f299aff259b",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/payload/all/opx-runtime_2026.11.23_all.tar.gz"
     },
     {
@@ -69,8 +69,8 @@
       "arch": "all",
       "kind": "payload",
       "path": "payload/all/opx-usb_2026.11.23_all.tar.gz",
-      "size": 2074,
-      "sha256": "006b53fce9f077431a878ba5425b22ee500754bb5e8e1da4c8e5d18ca7289539",
+      "size": 2075,
+      "sha256": "f85d94856017d83ec00d2433b48f206da976476ea6701987d041973ea6e870bd",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/payload/all/opx-usb_2026.11.23_all.tar.gz"
     },
     {
@@ -79,8 +79,8 @@
       "arch": "all",
       "kind": "payload",
       "path": "payload/all/opx-wifi4_2026.11.23_all.tar.gz",
-      "size": 19945970,
-      "sha256": "c831d6009c1d9eb5bf0ccfcbfdfae76d2a5b8f4e5c0856732ca1cdd38e1fc430",
+      "size": 19945938,
+      "sha256": "1ef97b2faccc167833bf725527ecfb1a59d0f98de2420ad2d0abdf54171269a7",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/payload/all/opx-wifi4_2026.11.23_all.tar.gz"
     },
     {
@@ -90,7 +90,7 @@
       "kind": "payload",
       "path": "payload/arm/opx-base_2026.11.23_arm.tar.gz",
       "size": 12827702,
-      "sha256": "968e856739c2733ebe7a1d4079d3779587afd5dc39ee245a80d88acb826dab51",
+      "sha256": "1230a6ad83bad15e2ec72fdb720c9891cdb33bea613b99dfdc4da922201c9744",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/payload/arm/opx-base_2026.11.23_arm.tar.gz"
     },
     {
@@ -100,7 +100,7 @@
       "kind": "payload",
       "path": "payload/i686/opx-base_2026.11.23_i686.tar.gz",
       "size": 13998902,
-      "sha256": "156dbad03e11a8b3af737d9493839f8fafeae1964caaf99db596d6dbd3213352",
+      "sha256": "49e12853cd0c263e06fc76dba7288cff5bc80ca73a9dcfcb1fab48979cf2ce76",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/payload/i686/opx-base_2026.11.23_i686.tar.gz"
     },
     {
@@ -110,7 +110,7 @@
       "kind": "payload",
       "path": "payload/x86_64/opx-base_2026.11.23_x86_64.tar.gz",
       "size": 14274374,
-      "sha256": "b683d4327435668967009bd9f285a6f4d4ead94c8f84ce9beadc78ec89af3ad5",
+      "sha256": "b1353aef330ec7ddec6d78c23bf8e49dca6e21109f86e6299a071a4c692c9e84",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/payload/x86_64/opx-base_2026.11.23_x86_64.tar.gz"
     },
     {
@@ -119,8 +119,8 @@
       "arch": "all",
       "kind": "deb",
       "path": "pool/main/o/opx-runtime/opx-runtime_2026.11.23_all.deb",
-      "size": 3052,
-      "sha256": "46ec81606215874012b6bc3b062698e946c1e810dd9e3ef4cfb9f6006e1c8ce7",
+      "size": 3056,
+      "sha256": "4babe2550773ff1adc5ff7210d79610ced4649fb95129e2b48acfb3e5a0a374b",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/pool/main/o/opx-runtime/opx-runtime_2026.11.23_all.deb",
       "depends": "",
       "description": "OPX OSS runtime: the headless OPX engine entry point"
@@ -131,8 +131,8 @@
       "arch": "all",
       "kind": "deb",
       "path": "pool/main/o/opx-usb/opx-usb_2026.11.23_all.deb",
-      "size": 2432,
-      "sha256": "9d37ebad1ccd324e76a28c6e324e349bda05d4a9b8b22050e66d1bbe44f0e323",
+      "size": 2434,
+      "sha256": "8fe92c68413e5507a2306822b791230d12864b57403d135cb58dfc898f8dc855",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/pool/main/o/opx-usb/opx-usb_2026.11.23_all.deb",
       "depends": "",
       "description": "termux-usb replacement that talks to the OPX OSS USB host bridge in-process"
@@ -143,8 +143,8 @@
       "arch": "all",
       "kind": "deb",
       "path": "pool/main/o/opx-wifi4/opx-wifi4_2026.11.23_all.deb",
-      "size": 11100180,
-      "sha256": "1fb13c6245ff8887429385790f806d6514bc38feb64b5b5c310b866fa77b201e",
+      "size": 11100156,
+      "sha256": "90a665d3b3122e79580b8b195dc3394aa020b012b78789fecb4c0b1261f12e16",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/pool/main/o/opx-wifi4/opx-wifi4_2026.11.23_all.deb",
       "depends": "",
       "description": "wifi4 wireless engine for OPX OSS (headless: the textual TUI is not shipped)"
