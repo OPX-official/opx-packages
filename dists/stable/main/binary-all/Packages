@@ -6,8 +6,8 @@ Installed-Size: 56
 Section: utils
 Priority: optional
 Filename: pool/main/o/opx-runtime/opx-runtime_2026.11.23_all.deb
-Size: 3050
-SHA256: 4a509c10318394217a1079891a714bf6af799b764048525da3f682b62c7f3c21
+Size: 3054
+SHA256: 6b16866d9dc5cf04777ab432558bdce82f84735d9bb5fcbac41bdbf3db4e408c
 Description: OPX OSS runtime: the headless OPX engine entry point
 
 Package: opx-usb
@@ -19,7 +19,7 @@ Section: utils
 Priority: optional
 Filename: pool/main/o/opx-usb/opx-usb_2026.11.23_all.deb
 Size: 2432
-SHA256: dae7324607c9b5a0001abb2c3940535e36f7370c24e79b3542f51e6517c300a7
+SHA256: de6cdd76c6fdbc0f866a4c64bfd08f65ba50bbe262bf0b33ab08922cea674794
 Description: termux-usb replacement that talks to the OPX OSS USB host bridge in-process
 
 Package: opx-wifi4
@@ -30,6 +30,6 @@ Installed-Size: 41508
 Section: utils
 Priority: optional
 Filename: pool/main/o/opx-wifi4/opx-wifi4_2026.11.23_all.deb
-Size: 11100104
-SHA256: bc65ab92fcff0a33491562e710d41082ac75a9ea2eb322765c95c6122bf9f4d2
+Size: 11100050
+SHA256: 0f54d59995cf412358ad7503f4174b96e23775f294d9c0944fefacaf5cc97083
 Description: wifi4 wireless engine for OPX OSS (headless: the textual TUI is not shipped)
