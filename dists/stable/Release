@@ -1,0 +1,7 @@
+Origin: OPX
+Label: OPX OSS
+Suite: stable
+Codename: stable
+Architectures: all aarch64 arm i686 x86_64
+Date: Mon, 23 Nov 2026 12:25:36 UTC
+Description: OPX OSS package archive
