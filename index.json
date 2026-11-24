@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-24T16:03:14Z",
+  "generated": "2026-11-24T17:09:06Z",
   "base_url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/",
   "release_base_url": "https://github.com/OPX-official/opx-packages/releases/download/packages/",
   "packages": [
@@ -43,8 +43,8 @@
       "arch": "all",
       "kind": "payload",
       "path": "payload/all/opx-runtime_2026.11.24_all.tar.gz",
-      "size": 4943,
-      "sha256": "076bb73210a3b42daff6feee7094e9de19964eebcd8be9c2d0a1f33fcc05f609",
+      "size": 7564,
+      "sha256": "710816af35da1388fccbea895fb5b9ebf90af42474c794abb13ee93a10337837",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/payload/all/opx-runtime_2026.11.24_all.tar.gz",
       "storage": "branch"
     },
@@ -55,7 +55,7 @@
       "kind": "payload",
       "path": "payload/all/opx-usb_2026.11.24_all.tar.gz",
       "size": 2468,
-      "sha256": "0bae97ecfbd05e69660c674bdcd13dc50dc3fe447c026aedb552765181b3f616",
+      "sha256": "2c4d79e45344273f5582c5553aacb50837bf91547e642be0c231d0fb7eadf872",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/payload/all/opx-usb_2026.11.24_all.tar.gz",
       "storage": "branch"
     },
@@ -65,8 +65,8 @@
       "arch": "all",
       "kind": "payload",
       "path": "payload/all/opx-wifi4_2026.11.24_all.tar.gz",
-      "size": 19944041,
-      "sha256": "c0af28afc07e7d2c1c7fd1e9e0c64518c82d8f6498da5e54104690d7dd242c7c",
+      "size": 19945244,
+      "sha256": "0493dc30d7b598813ce3777e7c08f344e8cb9c2bbc66b4349e05c27fb36622e7",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/payload/all/opx-wifi4_2026.11.24_all.tar.gz",
       "storage": "branch"
     },
@@ -87,12 +87,14 @@
       "arch": "all",
       "kind": "deb",
       "path": "pool/main/o/opx-runtime/opx-runtime_2026.11.24_all.deb",
-      "size": 5132,
-      "sha256": "b205c952ce47d198da1aaa742a400411bd586afc3b1cefd577dd295e8fd45e95",
+      "size": 7614,
+      "sha256": "7782cf3342928dafcf713ff03a177897f3e70ea45bb5039cc4093bdb81f3e154",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/pool/main/o/opx-runtime/opx-runtime_2026.11.24_all.deb",
       "storage": "branch",
       "depends": "",
-      "description": "OPX OSS runtime: the headless OPX engine entry point"
+      "description": "OPX OSS runtime: the headless OPX engine entry point",
+      "maintainer": "OPX OSS <opx@opx.dev>",
+      "installed_size": "72"
     },
     {
       "name": "opx-usb",
@@ -100,12 +102,14 @@
       "arch": "all",
       "kind": "deb",
       "path": "pool/main/o/opx-usb/opx-usb_2026.11.24_all.deb",
-      "size": 2814,
-      "sha256": "43d1a187772b49166c4574b6a4b1621047053fb41113323afda50016487c9f07",
+      "size": 2820,
+      "sha256": "15a77b7f5e078488711469fdb71c3cf067c8f20529fa2ce6b4f64afef5189c9c",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/pool/main/o/opx-usb/opx-usb_2026.11.24_all.deb",
       "storage": "branch",
       "depends": "",
-      "description": "opx-usb command that talks to the OPX OSS USB host bridge in-process"
+      "description": "opx-usb command that talks to the OPX OSS USB host bridge in-process",
+      "maintainer": "OPX OSS <opx@opx.dev>",
+      "installed_size": "52"
     },
     {
       "name": "opx-wifi4",
@@ -113,12 +117,14 @@
       "arch": "all",
       "kind": "deb",
       "path": "pool/main/o/opx-wifi4/opx-wifi4_2026.11.24_all.deb",
-      "size": 11099232,
-      "sha256": "6d6610da8535a598fac448cac225edb2a8cbb68442624d345e3b45e954d2fc0c",
+      "size": 11099188,
+      "sha256": "d961cff6fc4673158fbc09bd25d7f2b1fa4ddd01089de5e7b2fdd15d8ecc9f11",
       "url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/pool/main/o/opx-wifi4/opx-wifi4_2026.11.24_all.deb",
       "storage": "branch",
       "depends": "",
-      "description": "wifi4 wireless engine for OPX OSS (headless: the textual TUI is not shipped)"
+      "description": "wifi4 wireless engine for OPX OSS (headless: the textual TUI is not shipped)",
+      "maintainer": "OPX OSS <opx@opx.dev>",
+      "installed_size": "41508"
     }
   ]
 }
