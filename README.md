@@ -1,12 +1,12 @@
 # OPX package archive
 
 Built from [OPX OSS](https://github.com/OPX-official/opx-oss) by its `Packages` workflow.
-Generated: 2026-11-23T13:01:26Z
+Generated: 2026-11-24T06:50:07Z
 
 | kind | files |
 |---|---|
-| bootstrap | 4 |
+| bootstrap | 2 |
 | deb | 3 |
-| payload | 7 |
+| payload | 5 |
 
-`index.json` lists every artifact with its SHA-256; the APK build downloads only from here.
+ lists every artifact with its SHA-256; the APK build downloads only from here.
