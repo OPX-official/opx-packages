@@ -6,38 +6,38 @@
   "artifacts": [
     {
       "path": "base/bootstrap/bootstrap-aarch64.zip",
-      "sha256": "814d13d32976280c19ef44bdfea66cb1d0b7d4871862f324f0bb00a877e17e2c",
-      "size": 128944050
+      "sha256": "ef3f79508afe132d42d49ade8799fc51bc0baf38b2c21555aea77bf80d4e845f",
+      "size": 99523906
     },
     {
       "path": "base/bootstrap/bootstrap-arm.zip",
-      "sha256": "b741081ae40b0cf40b66c7cf438b3f2915e87dd5a826ff068539ff5964bce297",
-      "size": 121050142
+      "sha256": "5c04178c234512d96682c72bd38a2aa7b28d0dc117753390e301b8ed00ea5b69",
+      "size": 91527537
     },
     {
       "path": "payload/aarch64/opx-base_2026.11.24_aarch64.tar.gz",
-      "sha256": "b0e4432a7deaf673dd5b8ec0d04dd6e1168f3a1154c06fe907ea71a78f7cb3f8",
-      "size": 142710967
+      "sha256": "f7aa71ebc915f32e85ccd90514a2fd4595b4b3523d55da74dcd25f4e8ed2d637",
+      "size": 20643300
     },
     {
       "path": "payload/all/opx-runtime_2026.11.24_all.tar.gz",
-      "sha256": "e3fd400bc809f51532d0349d41d6c3982457e48b6d3e6f412934a6c35a66675d",
+      "sha256": "2404a1fab422c774646e3475b88c9971eff24498d9aa1c73d7c8abbda966c57c",
       "size": 4631
     },
     {
       "path": "payload/all/opx-usb_2026.11.24_all.tar.gz",
-      "sha256": "8b73e32dcc061e61e739925f34acb9171ab123a974fb370fbd3802c5ef8fedab",
-      "size": 2287
+      "sha256": "eb1dd0bf2a2028124633648e586999eb415135564fcb62870d87aa35bfd32deb",
+      "size": 2467
     },
     {
       "path": "payload/all/opx-wifi4_2026.11.24_all.tar.gz",
-      "sha256": "30418d0e665db36bb35af47cca1cae4e077cd80f4b43a83ad73b09c5e424e55a",
-      "size": 19945571
+      "sha256": "69d30da90cfe24af02070b6467f294b19fb8055f4361fbd2c55feca2062366a0",
+      "size": 19943032
     },
     {
       "path": "payload/arm/opx-base_2026.11.24_arm.tar.gz",
-      "sha256": "9dd6e249c111e00932750c4fc4346b0df7296448afe4daa3b81b7e4ca84c9f3a",
-      "size": 129723061
+      "sha256": "234d215bee2b22346bdc95e54032dec2c5a97396de92152af6b17e515fc13df7",
+      "size": 17672629
     }
   ]
 }

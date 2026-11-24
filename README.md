@@ -1,7 +1,12 @@
 # OPX package archive
 
 Built from [OPX OSS](https://github.com/OPX-official/opx-oss) by its `Packages` workflow.
-Republished: 2026-11-24T07:11:35Z (foreign-named helpers stripped)
+Generated: 2026-11-24T12:45:18Z
 
-Artifacts too large for a git branch live in the `packages` release; `index.json` here
-points at them.
+| kind | files |
+|---|---|
+| bootstrap | 2 |
+| deb | 3 |
+| payload | 5 |
+
+ lists every artifact with its SHA-256; the APK build downloads only from here.

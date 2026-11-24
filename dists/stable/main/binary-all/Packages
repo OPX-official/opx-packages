@@ -6,8 +6,8 @@ Installed-Size: 64
 Section: utils
 Priority: optional
 Filename: pool/main/o/opx-runtime/opx-runtime_2026.11.24_all.deb
-Size: 4896
-SHA256: 0df84219df01e3d320b04de826b346d85857634d341fd0f48df8a3e858350a99
+Size: 4900
+SHA256: 021ef1e5588631942dc1f0fbed45feeac5137929031e6a71da1bb10b61b8810b
 Description: OPX OSS runtime: the headless OPX engine entry point
 
 Package: opx-usb
@@ -18,8 +18,8 @@ Installed-Size: 52
 Section: utils
 Priority: optional
 Filename: pool/main/o/opx-usb/opx-usb_2026.11.24_all.deb
-Size: 2630
-SHA256: 26abe1a612e85b2a302fed37a77e656922415076d0ca50298e876d0f404a0be0
+Size: 2818
+SHA256: ad95ef83cb144f762b7d62dece1bc6b17c6fe703ef628f840bc2af13da12583f
 Description: opx-usb command that talks to the OPX OSS USB host bridge in-process
 
 Package: opx-wifi4
@@ -30,6 +30,6 @@ Installed-Size: 41508
 Section: utils
 Priority: optional
 Filename: pool/main/o/opx-wifi4/opx-wifi4_2026.11.24_all.deb
-Size: 11098720
-SHA256: d57523a43a41d66bd6f57d47e321ed8c19aa393a3ee061316cfb28e36ced3d54
+Size: 11099092
+SHA256: 4953f5f376895aa4159f7f296cc5e77af416ae279433509baa36947c88ef4007
 Description: wifi4 wireless engine for OPX OSS (headless: the textual TUI is not shipped)
