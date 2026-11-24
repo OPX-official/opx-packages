@@ -1,7 +1,7 @@
 # OPX package archive
 
 Built from [OPX OSS](https://github.com/OPX-official/opx-oss) by its `Packages` workflow.
-Generated: 2026-11-24T12:45:18Z
+Generated: 2026-11-24T16:03:23Z
 
 | kind | files |
 |---|---|
