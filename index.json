@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-24T06:49:51Z",
+  "generated": "2026-11-24T07:10:19Z",
   "base_url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/",
   "release_base_url": "https://github.com/OPX-official/opx-packages/releases/download/packages/",
   "packages": [
@@ -10,8 +10,8 @@
       "arch": "aarch64",
       "kind": "bootstrap",
       "path": "base/bootstrap/bootstrap-aarch64.zip",
-      "size": 128944050,
-      "sha256": "814d13d32976280c19ef44bdfea66cb1d0b7d4871862f324f0bb00a877e17e2c",
+      "size": 128913798,
+      "sha256": "0091baf6b4b706d2c757bd45fd9d8bd65d48595e08b691d7951122fb686a9112",
       "url": "https://github.com/OPX-official/opx-packages/releases/download/packages/base__bootstrap__bootstrap-aarch64.zip",
       "storage": "release"
     },
@@ -21,8 +21,8 @@
       "arch": "arm",
       "kind": "bootstrap",
       "path": "base/bootstrap/bootstrap-arm.zip",
-      "size": 121050142,
-      "sha256": "b741081ae40b0cf40b66c7cf438b3f2915e87dd5a826ff068539ff5964bce297",
+      "size": 121019890,
+      "sha256": "9a244c85e9d121b71d963f53d7b5218028fdd7643d0b4bfd7eddd4b93d8c6b55",
       "url": "https://github.com/OPX-official/opx-packages/releases/download/packages/base__bootstrap__bootstrap-arm.zip",
       "storage": "release"
     },
@@ -32,8 +32,8 @@
       "arch": "aarch64",
       "kind": "payload",
       "path": "payload/aarch64/opx-base_2026.11.24_aarch64.tar.gz",
-      "size": 142710967,
-      "sha256": "b0e4432a7deaf673dd5b8ec0d04dd6e1168f3a1154c06fe907ea71a78f7cb3f8",
+      "size": 158126968,
+      "sha256": "5ddd6997f6cb402dcfc624f460d8e34ed1b1b9f0e9d250530d403a251a1c2c54",
       "url": "https://github.com/OPX-official/opx-packages/releases/download/packages/payload__aarch64__opx-base_2026.11.24_aarch64.tar.gz",
       "storage": "release"
     },
@@ -76,8 +76,8 @@
       "arch": "arm",
       "kind": "payload",
       "path": "payload/arm/opx-base_2026.11.24_arm.tar.gz",
-      "size": 129723061,
-      "sha256": "9dd6e249c111e00932750c4fc4346b0df7296448afe4daa3b81b7e4ca84c9f3a",
+      "size": 142182412,
+      "sha256": "f1704384de7ec023d4cc3128413f98a720686abd51b9a71bba991c5b2e542d47",
       "url": "https://github.com/OPX-official/opx-packages/releases/download/packages/payload__arm__opx-base_2026.11.24_arm.tar.gz",
       "storage": "release"
     },
