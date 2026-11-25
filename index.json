@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-25T10:54:36Z",
+  "generated": "2026-11-25T11:46:57Z",
   "base_url": "https://raw.githubusercontent.com/OPX-official/opx-packages/gh-pages/",
   "release_base_url": "https://github.com/OPX-official/opx-packages/releases/download/packages/",
   "packages": [
@@ -10,8 +10,8 @@
       "arch": "aarch64",
       "kind": "bootstrap",
       "path": "base/bootstrap/bootstrap-aarch64.zip",
-      "size": 99645487,
-      "sha256": "2a941483cd7a505b34bcf424b89da70c715e6d79ccf0dbb672f2a8b845ae3ae3",
+      "size": 99617605,
+      "sha256": "588e6352122ba94e81b05d50dd7d51a4ec0cf2d6191ac06f1eb752cd54e0b376",
       "url": "https://github.com/OPX-official/opx-packages/releases/download/packages/base__bootstrap__bootstrap-aarch64.zip",
       "storage": "release"
     },
